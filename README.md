@@ -1,9 +1,11 @@
 
 ### <h1 align="center"><b>Hi , I'm Arif Hossen </b></h1>
 <!--  -->
+<b>
 <p align="center">
   <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=680&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer;Active+Learner;Enjoy+learning+and+exploring+new+technologies.."></a>
 </p>
+</b>
 
 
 <br>
