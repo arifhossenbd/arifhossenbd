@@ -16,10 +16,10 @@
 ### <h2>👨🏽‍💼 &nbsp;About Me</h2>
 
 <!--  -->
-</b>
+</b></br></br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-<br>
+</br>
+</br></br>
 👩‍💻 &nbsp;A passionate Self-taught Front-End developer </br>
 📚 &nbsp;Currently learning Web Development by Self 😅</br>
 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.</br>
