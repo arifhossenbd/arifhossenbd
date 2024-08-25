@@ -2,7 +2,7 @@
 ### <h1 align="center"><b>Hi , I'm Arif Hossen </b></h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--  -->
-## <p align="center">
+### <p align="center">
   <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=680&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer;Active+Learner;Enjoy+learning+and+exploring+new+technologies.."></a>
 </p>
 
@@ -12,16 +12,14 @@
 
 
 	
-## <picture><img src = "https://github.com/arifhossenbd/arifhossenbd/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/arifhossenbd/arifhossenbd/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+### 👨🏻‍💻 &nbsp;About Me
 
 <br>
 
-- 👩‍💻 A passionate Self-taught Front-End developer 
-- 📚 Currently learning Web Development by Self 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- 👩‍💻 &nbsp;A passionate Self-taught Front-End developer 
+- 📚 &nbsp;Currently learning Web Development by Self 😅
+- 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
@@ -106,10 +104,10 @@
   <a href="https://www.twitter.com/arifhossengd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/iarifhossen" target="_blank">
+  <a href="https://www.facebook.com/iarifhussain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
   </a>
-  <a href="https://discord.com/channels/@arifhossen" target="_blank">
+  <a href="https://discord.com/channels/@arifhossenbd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
   </a>
   <a href="https://wa.me/8801518745183" target="_blank">
@@ -118,7 +116,7 @@
   <a href="arifhossengd@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/arifhossen" target="_blank">
+  <a href="https://www.hackerrank.com/arifhossengd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
   </a>
 </div>
