@@ -79,31 +79,7 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/arifhossen/arifhossen/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align="left">
-  <a href="https://www.linkedin.com/in/arifhossen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/arifhossengd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/iarifhossen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/channels/@arifhossen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/8801518745183" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
-  </a>
-  <a href="arifhossengd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/arifhossenbd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
-  </a>
-</div>
 
-<br/>
 <div align='left'>
 
 <ul>
@@ -117,8 +93,9 @@
 <br>
 
 <li>
+	
 <a href="https://x.com/arifhossengd" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  arif hossen-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="[https://img.shields.io/badge/twitter](https://img.shields.io/twitter/follow/: arif hossen-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;)"/>
 </a>
 </li>
 
