@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Arif Hossen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer,;Active+Learner,;Enjoy+learning+and+exploring+new+technologies..<3"></a>
+  <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer;Active+Learner;Enjoy+learning+and+exploring+new+technologies.."></a>
 </p>
 
 
@@ -95,7 +95,7 @@
 <li>
 	
 <a href="https://x.com/arifhossengd" target="_blank">
-<img src="[https://img.shields.io/badge/twitter](https://img.shields.io/twitter/follow/: arif hossen-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;)"/>
+<img src="[https://img.shields.io/badge/twitter](https://img.shields.io/twitter/follow/:Arif Hossen)"/>
 </a>
 </li>
 
