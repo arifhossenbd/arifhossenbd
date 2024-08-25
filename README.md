@@ -16,6 +16,7 @@
 ### 👨🏻‍💻 &nbsp;About Me 
 
 <!--  -->
+<b>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <br>
@@ -24,6 +25,7 @@
 - 📚 &nbsp;Currently learning Web Development by Self 😅
 - 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+</b>
 
 
 
