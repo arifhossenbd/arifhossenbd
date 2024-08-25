@@ -1,8 +1,9 @@
 
-<h1 align="center"><b>Hi , I'm Arif Hossen </b><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" /></h1>
+### <h1 align="center"><b>Hi , I'm Arif Hossen </b></h1>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--  -->
-<p align="center">
-  <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer;Active+Learner;Enjoy+learning+and+exploring+new+technologies.."></a>
+## <p align="center">
+  <a href="https://github.com/arifhossenbd/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=680&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-Taught+Front-End+Developer;Active+Learner;Enjoy+learning+and+exploring+new+technologies.."></a>
 </p>
 
 
@@ -17,8 +18,7 @@
 
 <br>
 
-- ![CatBusyGIF](https://github.com/user-attachments/assets/fdfc0287-42c0-47e8-9953-26bf01ea57be)
-A passionate Self-taught Front-End developer
+- 👩‍💻 A passionate Self-taught Front-End developer 
 - 📚 Currently learning Web Development by Self 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume]()
