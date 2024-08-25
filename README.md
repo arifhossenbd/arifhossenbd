@@ -11,7 +11,10 @@
 
 
 	
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 
+
+<!--  -->
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <br>
 
@@ -20,8 +23,7 @@
 - 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
-<!--  -->
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 <br><br>
 
