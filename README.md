@@ -95,7 +95,7 @@
 <li>
 	
 <a href="https://x.com/arifhossengd" target="_blank">
-<img src="[https://img.shields.io/badge/twitter](https://img.shields.io/twitter/follow/:Arif Hossen)"/>
+<img src="[[https://img.shields.io/badge/twitter](https://img.shields.io/twitter/follow/:Arif Hossen)](https://img.shields.io/twitter/follow/arifhossengd)"/>
 </a>
 </li>
 
