@@ -23,7 +23,7 @@
 👩‍💻 &nbsp;A passionate Self-taught Front-End developer </br>
 📚 &nbsp;Currently learning Web Development by Self 😅</br>
 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.</br>
-👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is <a href="" target="_blank">my resume</a>
 </b>
 
 
