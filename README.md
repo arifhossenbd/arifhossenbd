@@ -22,7 +22,7 @@
 👩‍💻 &nbsp;A passionate Self-taught Front-End developer </br>
 📚 &nbsp;Currently learning Web Development by Self 😅</br>
 💪🏼 &nbsp;Future Goals: Learn more technologies - Never stop creating new ideas.</br>
-👨‍💻 &nbsp;I’m currently open for an Intern or a new job opportunity, this is <a href="" target="_blank">my resume</a>
+👨‍💻 &nbsp;I’m currently open for an intern or a new job opportunity, this is <a href="" target="_blank">my resume</a>
 </b>
 
 
@@ -87,7 +87,7 @@
   </a>
   <a href="mailto:arifhossengd@gmail.com" target="_blank">
     <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-  <a href="https://www.hackerrank.com/arifhossengd" target="_blank">
+  <a href="https://www.hackerrank.com/arifhossenbd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo"  />
   </a>
 </div>
